@@ -31,7 +31,7 @@ MD,
 Please write a short title for this image.
 MD,
 		'cache_file' => 'image-descriptions.csv',
-		'image_size' => 'medium',
+		'image_size' => 'large',
 	];
 
 	private $processed_attachment_ids = [];
